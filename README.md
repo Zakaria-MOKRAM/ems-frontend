@@ -35,7 +35,7 @@ Puis, ouvrez votre navigateur à l'adresse suivante : <a href="url">http://local
 ### Scripts Disponibles
 Quelques commandes utiles pour gérer le projet :
 
-``ng serve : Démarre l'application en mode développement.<br>
+``ng serve`` : Démarre l'application en mode développement.<br>
 ``ng build`` : Compile le projet pour la production dans le dossier dist/.<br>
-ng test : Lance les tests unitaires avec Karma.<br>
-ng lint : Analyse le code pour repérer les erreurs de style et de syntaxe.<br>
+``ng test`` : Lance les tests unitaires avec Karma.<br>
+``ng lint`` : Analyse le code pour repérer les erreurs de style et de syntaxe.<br>
