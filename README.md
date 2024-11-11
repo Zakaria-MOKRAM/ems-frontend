@@ -1,27 +1,34 @@
-# Frontend
+#EMS (Employee Management System)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.11.
+The Employee Management System (EMS) was designed to provide a comprehensive solution for managing employee-related tasks within an organization.this system aims to improve the efficiency of human resources management by automating key tasks such as employee data management, leave tracking, and performance monitoring.
 
-## Development server
+## Table des matières
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Installation](#installation)
+- [Lancement](#lancement)
+- [Scripts Disponibles](#scripts-disponibles)
 
-## Code scaffolding
+## Installation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Pour installer et exécuter ce projet Angular, assurez-vous d'avoir installé **Node.js** (version 18.19 ou supérieure) et **Angular CLI**.
 
-## Build
+### Étapes d'installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/VotreNomUtilisateur/NomDuProjet.git
+   ```
+2. Accédez au répertoire du projet :
+  ```bash
+   cd ems-frontend
+   ```
+3.Installez les dépendances :
+ ```bash
+npm install
+```
+### Lancement
+Une fois les dépendances installées, lancez le serveur de développement pour voir l'application dans votre navigateur.
+```bash
+ng serve
+```
+Puis, ouvrez votre navigateur à l'adresse suivante : <a href="url">[link text](http://localhost:4200)</a>.
