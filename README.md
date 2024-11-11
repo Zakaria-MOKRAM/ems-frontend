@@ -31,4 +31,4 @@ Une fois les dépendances installées, lancez le serveur de développement pour 
 ```bash
 ng serve
 ```
-Puis, ouvrez votre navigateur à l'adresse suivante : <a href="url">[link text](http://localhost:4200)</a>.
+Puis, ouvrez votre navigateur à l'adresse suivante : <a href="url">http://localhost:4200a>.
