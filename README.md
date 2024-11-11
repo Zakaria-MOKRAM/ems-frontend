@@ -1,4 +1,4 @@
-#EMS (Employee Management System)
+# EMS (Employee Management System)
 
 The Employee Management System (EMS) was designed to provide a comprehensive solution for managing employee-related tasks within an organization.this system aims to improve the efficiency of human resources management by automating key tasks such as employee data management, leave tracking, and performance monitoring.
 
